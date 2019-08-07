@@ -338,7 +338,7 @@ export default class Backdrop extends React.PureComponent<Props> {
           <Icon
             name={this.state.iconName}
             size={24}
-            color='white'
+            color={this.props.activatorIconColor}
             style={styles.activatorIcon} />
         </Touchable>
       </Animated.View>
