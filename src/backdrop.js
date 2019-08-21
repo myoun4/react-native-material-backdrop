@@ -435,8 +435,8 @@ const styles = StyleSheet.create({
     position: 'absolute',
     top: 0, right: 0, bottom: 0, left: 0,
     backgroundColor: 'rgba(255,255,255,0.8)',
-    borderTopLeftRadius: 16,
-    borderTopRightRadius: 16
+    borderTopLeftRadius: 18,
+    borderTopRightRadius: 18
   },
   scrimLayerIcon: {
     position: 'absolute',
